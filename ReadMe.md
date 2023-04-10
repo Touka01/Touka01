@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/Parthis1833/Parthis1833/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 # 💫 About Me:
 🔭 Software engineer student<br>⚡ Music producer: https://soundcloud.com/2kx2k<br>🤝 Always open to help with projects!
 
