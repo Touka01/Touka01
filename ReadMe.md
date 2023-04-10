@@ -1,9 +1,9 @@
 <p align="center">
   <img src="https://github.com/Parthis1833/Parthis1833/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
-About Me:
-🔭 Software engineer student<br>⚡ Music producer: https://soundcloud.com/2kx2k<br>🤝 Always open to help with projects!
 
+# 💫 About Me:
+🔭 Software engineer student<br>⚡ Music producer: https://soundcloud.com/2kx2k<br>🤝 Always open to help with projects!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-toukebri-4b7999266) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/toukebri_ahmed) 
