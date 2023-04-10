@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/Parthis1833/Parthis1833/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
-# 💫 About Me:
+About Me:
 🔭 Software engineer student<br>⚡ Music producer: https://soundcloud.com/2kx2k<br>🤝 Always open to help with projects!
 
 
@@ -24,4 +24,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Touka01&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
