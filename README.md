@@ -3,7 +3,7 @@
 </p>
 
 # About Me:
-Hello! my name is Ahmed, also known as Touka. I'm a software engineer and a music producer that is always willing to lend a hand.
+Hello! I'm Touka. I'm a software engineer and a music producer who is always willing to lend a hand.
 
 
 ## Socials:
