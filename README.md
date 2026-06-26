@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Ahmed Toukebri 👋</h1>
-<p align="center">Software Engineer · Full-Stack Developer · Builder of things people actually use</p>
+<h1 align="center">Hi, I'm Touka 👋</h1>
+<p align="center">Software Engineer · Full-Stack Developer · Builder of things people actually use for fun or for real</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-toukebri-4b7999266/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
