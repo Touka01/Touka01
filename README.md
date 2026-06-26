@@ -33,8 +33,10 @@ I care about clean, readable code, solving the actual problem, and finishing wha
 
 ### Featured projects
 
-- **Simple Shell** (C): a working Unix command line interpreter written from scratch.
-- *(more coming soon as I publish my latest work)*
+- **[DevToolbox](https://github.com/Touka01/devtoolbox)** (React): a privacy-first suite of in-browser developer tools, JSON, JWT, Base64, hashing, UUID, and timestamps, that never sends your data anywhere.
+- **[shortlink-api](https://github.com/Touka01/shortlink-api)** (Node, Express, SQLite): a URL shortener REST API with click analytics, custom aliases, expiry, rate limiting, and a passing test suite.
+- **[dedupe](https://github.com/Touka01/dedupe)** (Python): a command line tool that finds and safely removes duplicate files using a staged hashing strategy.
+- **[Simple Shell](https://github.com/Touka01/holbertonschool-simple_shell)** (C): a working Unix command line interpreter written from scratch.
 
 ### GitHub stats
 
