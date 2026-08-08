@@ -16,6 +16,19 @@ I am a software engineer based in Tunisia with a Holberton School foundation and
 
 I care about clean, readable code, solving the actual problem, and finishing what I start.
 
+### Featured: ClipForge
+
+Paste video links, get a finished compilation. **[ClipForge](https://github.com/Touka01/ClipForge)** downloads clips from 1000+ sites and edits them into stitched, silence-trimmed, or beat-synced montages on your own machine, with GPU-accelerated export, vertical and square output, and a browser capture extension. Runs as a native desktop app or in your browser.
+
+<p align="center">
+  <a href="https://github.com/Touka01/ClipForge"><img src="https://raw.githubusercontent.com/Touka01/ClipForge/main/docs/demo.gif" width="640" alt="ClipForge montage demo"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Touka01/ClipForge"><img src="https://img.shields.io/badge/View%20on%20GitHub-6d8bff?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub"></a>
+  <a href="https://github.com/Touka01/ClipForge/releases/latest"><img src="https://img.shields.io/badge/Download%20for%20Windows-b06dff?style=for-the-badge&logo=windows&logoColor=white" alt="Download for Windows"></a>
+</p>
+
 ### What I work with
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -31,8 +44,9 @@ I care about clean, readable code, solving the actual problem, and finishing wha
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
-### Featured projects
+### More projects
 
+- **[ClipForge](https://github.com/Touka01/ClipForge)** (Python, FastAPI, FFmpeg): a local video compilation maker that downloads from 1000+ sites and builds beat-synced montages, with a desktop app and a capture extension.
 - **[DevToolbox](https://github.com/Touka01/devtoolbox)** (React): a privacy-first suite of in-browser developer tools, JSON, JWT, Base64, hashing, UUID, and timestamps, that never sends your data anywhere.
 - **[shortlink-api](https://github.com/Touka01/shortlink-api)** (Node, Express, SQLite): a URL shortener REST API with click analytics, custom aliases, expiry, rate limiting, and a passing test suite.
 - **[dedupe](https://github.com/Touka01/dedupe)** (Python): a command line tool that finds and safely removes duplicate files using a staged hashing strategy.
