@@ -31,18 +31,31 @@ Paste video links, get a finished compilation. **[ClipForge](https://github.com/
 
 ### What I work with
 
+**Languages**
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
+
+**Frameworks and tools**
+
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
 ### More projects
 
@@ -52,19 +65,10 @@ Paste video links, get a finished compilation. **[ClipForge](https://github.com/
 - **[dedupe](https://github.com/Touka01/dedupe)** (Python): a command line tool that finds and safely removes duplicate files using a staged hashing strategy.
 - **[Simple Shell](https://github.com/Touka01/holbertonschool-simple_shell)** (C): a working Unix command line interpreter written from scratch.
 
-### GitHub stats
+### GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Touka01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Touka01&theme=tokyonight&hide_border=true&layout=compact" alt="top langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Touka01&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Touka01&theme=tokyonight&no-frame=true&column=7&margin-w=4" alt="trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Touka01&theme=tokyonight&hide_border=true" alt="GitHub streak and total contributions" />
 </p>
 
 ---
